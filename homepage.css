@@ -1,0 +1,8 @@
+
+.main-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: 20% 60% 20%;
+    border-width: 5px;
+    border-color: yellow;
+}
